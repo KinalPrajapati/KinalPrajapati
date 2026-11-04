@@ -60,9 +60,9 @@ I enjoy transforming ideas and designs into clean, functional digital experience
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KinalP25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=KinalPrajapati&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KinalP25&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KinalPrajapati&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
 
