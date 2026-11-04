@@ -8,7 +8,7 @@
 ### Frontend Developer | Angular | React | JavaScript
 
 <p>
-  <a href="https://github.com/KinalP25">
+  <a href="https://github.com/KinalPrajapati">
     <img src="https://img.shields.io/badge/GitHub-KinalP25-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.linkedin.com/in/kinalkoriya063/">
@@ -88,7 +88,7 @@ I'm always happy to connect with developers, exchange ideas, and explore opportu
 
 <div align="center">
 
-<a href="[https://github.com/KinalP25](https://github.com/KinalPrajapati)](https://github.com/KinalPrajapati)">
+<a href="[https://github.com/KinalPrajapati](https://github.com/KinalPrajapati)](https://github.com/KinalPrajapati)">
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
 </a>
 
