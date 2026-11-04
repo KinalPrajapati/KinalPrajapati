@@ -1,3 +1,4 @@
+
 <!-- Profile Header -->
 <div align="center">
 
@@ -9,7 +10,7 @@
 
 <p>
   <a href="https://github.com/KinalPrajapati">
-    <img src="https://img.shields.io/badge/GitHub-KinalP25-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-KinalPrajapati-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.linkedin.com/in/kinalkoriya063/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
@@ -22,7 +23,7 @@
 
 ## 👩‍💻 About Me
 
-I'm a passionate *Frontend Developer* with 2–3 years of experience building responsive, interactive, and user-friendly web applications.
+I'm a passionate **Frontend Developer** with 2–3 years of experience building responsive, interactive, and user-friendly web applications.
 
 I enjoy transforming ideas and designs into clean, functional digital experiences. I love exploring modern frontend technologies, writing maintainable code, and continuously improving my development skills.
 
@@ -66,7 +67,7 @@ I enjoy transforming ideas and designs into clean, functional digital experience
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=KinalP25&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=KinalPrajapati&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -76,7 +77,7 @@ I enjoy transforming ideas and designs into clean, functional digital experience
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/KinalP25/KinalP25/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+<img src="https://raw.githubusercontent.com/KinalPrajapati/KinalPrajapati/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" width="100%" />
 
 </div>
 
@@ -88,7 +89,7 @@ I'm always happy to connect with developers, exchange ideas, and explore opportu
 
 <div align="center">
 
-<a href="[https://github.com/KinalPrajapati](https://github.com/KinalPrajapati)](https://github.com/KinalPrajapati)">
+<a href="https://github.com/KinalPrajapati">
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
 </a>
 
